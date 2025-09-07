@@ -9,7 +9,7 @@ export default async function Page({ params, searchParams }) {
     return (
         <main className="">
             <div>
-                <div>My username: {username} | Domain: {domain} </div>
+                <div>My usernamex: {username} | Domain: {domain} </div>
             </div>
         </main>
     )
